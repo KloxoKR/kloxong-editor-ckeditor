@@ -1,12 +1,12 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/editor
-%define productname kloxong-editor
+%define productname kloxokr-editor
 %define packagename ckeditor
 %define sourcename %{packagename}
 
 Name: %{productname}-%{packagename}
 Summary: Javascript WYSIWYG Editor 
 Version: 4.5.11
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 License: GPL
 URL: http://ckeditor.com/
 Group: Applications/Internet
